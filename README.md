@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Delphine
-- 👀 I’m interested in Python, Neo4j, Data...
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Web development, Data Analyst...
+- 🌱 I’m currently learning Terminal Ubuntu, Html, Css,
 - 📫 How to reach me lecorney.delphine@gmail.com
 
 <!---
