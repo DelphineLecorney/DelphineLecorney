@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Delphine
-- 👀 I’m interested in Web development, Data Analyst...
-- 🌱 I’m currently learning Terminal Ubuntu, Html, Css,
-- 📫 How to reach me lecorney.delphine@gmail.com
+💫 About Me:
 
-<!---
-Del-Lec/Del-Lec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on DOM<br>🌱 I’m currently learning javascript<br>
+
+🌐 Socials:
+
+💻 Tech Stack:
+
+ 
+
+📊 GitHub Stats:
+
+<br/>
+<br/>
+
+
+🏆 GitHub Trophies
+
+✍️ Random Dev Quote
+
+🔝 Top Contributed Repo
+
+😂 Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
