@@ -22,6 +22,10 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
-## 🌐 Social [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
+## 🌐 Social 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="delphine-lecorney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/delphine-lecorney?trk=profile-badge">Delphine Lecorney</a></div>
+              
 ---
 [![](https://visitcount.itsvg.in/api?id=DelphineLecorney&icon=0&color=0)](https://visitcount.itsvg.in)
