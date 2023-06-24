@@ -1,7 +1,7 @@
 
 # 💫 About Me:
-🌱I'm Delphine <br>
-🔭 I'm currently working on DOM and learning javascript
+🌱 Welcome I'm Delphine <br>
+🔭 I'm currently working on PHP and SQL
 
 
 # 📊 GitHub Stats:
