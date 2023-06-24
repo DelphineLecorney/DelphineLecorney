@@ -20,10 +20,30 @@
 ![](https://github-profile-trophy.vercel.app/?username=DelphineLecorney&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
+
+<p align='left'>
+  
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/visual-studio.jpg" alt="VSCode" height="60" width="60" />
+
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/html5.jpeg" alt="html5" height="60" width="60" /> 
+
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/css.jpg" alt="css" height="60" width="60" /> 
+
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/JS.JPG" alt="javascript" height="60" width="60" /> 
+
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/php_logo.jpg" alt="PHP" height="60" width="60" /> 
+
+<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/myphpadmin.png" alt="phpmyadmin" height="60" width="60" /> 
+
+
+</p>
+
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 ## 🌐 Social 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B6.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
 
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="delphine-lecorney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/delphine-lecorney?trk=profile-badge">Delphine Lecorney</a></div>
               
