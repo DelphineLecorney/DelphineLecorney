@@ -13,7 +13,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DelphineLecorney&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DelphineLecorney&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
