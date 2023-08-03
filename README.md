@@ -4,7 +4,7 @@
 
 🌱 Welcome I'm Delphine 🌱
 <br><br>
-🔭 I'm currently working on PHP and SQL 🔭
+🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
 
 </div>
