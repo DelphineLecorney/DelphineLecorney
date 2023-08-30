@@ -10,13 +10,7 @@
 </div>
 <br>
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DelphineLecorney&theme=dark&hide_border=false)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DelphineLecorney&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 # 💻 Tech Stack:
@@ -32,11 +26,17 @@
 
 <img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/php_logo.jpg" alt="PHP" height="60" width="60" /> 
 
+# 📊 GitHub Stats:
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=DelphineLecorney&theme=dark&hide_border=false)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DelphineLecorney&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)![LARAVEL](https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Laravel.JPG)
 
 ## 🌐 Social 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B6.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
