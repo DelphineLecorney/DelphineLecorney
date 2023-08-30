@@ -13,7 +13,7 @@
 
 
 
-# 💻 Tech Stack:
+# <img src="" alt="Stacks" height="60" width="60" /> Tech Stack:
 
 <p align='left'>
   
