@@ -9,6 +9,7 @@
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
 [Tradding app](https://github.com/DelphineLecorney/TraddingApp)
+</div>
 
 ```php
 class AuthController extends Controller
@@ -41,7 +42,7 @@ class AuthController extends Controller
     }
 }
 ```
-
+<div align='center'>
 <p>Creation of a Laravel-based API for a trading simulation application. </p>
 
 [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
