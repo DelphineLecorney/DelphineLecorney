@@ -51,11 +51,6 @@ Delphine 🔭
 
 <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DelphineLecorney&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
-
-
 ## 🌐 Contact
 <a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/delphine-lecorney?trk=profile-badge" target="_blank">Delphine Lecorney</a>
 <br>
