@@ -2,10 +2,8 @@
   
 # 💫 About Me:
 
-🌱 Welcome🌱
-<br><br>
-🔭 Hello everyone!
-
+🌱 Hello everyone! Welcome🌱
+<br>
 My name is Delphine and I'm passionate about IT development and creating innovative solutions. I'm delighted to share with you an overview of my background and projects.
 
 Over the years, I've had the opportunity to work on a number of exciting projects, which you can find in my various GitHub repositories. Each of these projects represents a unique challenge that I've taken on with enthusiasm, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
@@ -16,7 +14,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 
 Sincerely,
 <br>
-Delphine 🔭
+🔭 Delphine 🔭
 
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
