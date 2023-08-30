@@ -1,9 +1,9 @@
 <div align='center'>
   
-# 💫 About Me:
+# 💫 About Me :
 
 🌱 Hello everyone ! Welcome🌱
-<br>
+<br><br>
 My name is Delphine and I'm passionate about IT development and creating innovative solutions. I'm delighted to share with you an overview of my background and projects.
 
 Over the years, I've had the opportunity to work on a number of exciting projects, which you can find in my various GitHub repositories. Each of these projects represents a unique challenge that I've taken on with enthusiasm, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
