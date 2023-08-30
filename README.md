@@ -6,7 +6,9 @@
 <br><br>
 🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Repository:
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Last Repository :
+
+[Tradding app](https://github.com/DelphineLecorney/TraddingApp)
 
 
 </div>
@@ -15,7 +17,7 @@
 
 
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="50" width="50" /> Tech Stacks:
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="40" width="40" /> Tech Stacks :
 
 <p align='left'>
   
