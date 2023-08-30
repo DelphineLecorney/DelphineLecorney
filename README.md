@@ -14,6 +14,9 @@
 [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
 <p>This PHP script is designed to manage a customer support form, and has enabled me to find out how best to secure it.</p>
 
+[Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)
+<p>Creation of the traditional mole game, the aim of which is to use a hammer to prevent the "moles" from emerging from the ground.</p> 
+
 </div>
 <br>
 
