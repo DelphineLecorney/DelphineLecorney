@@ -12,11 +12,9 @@ Over the years, I've had the opportunity to work on a number of exciting project
 
 I'm currently looking for a challenging internship opportunity. I am a firm believer in lifelong learning and I am convinced that an internship would be an ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
 
-I invite you to explore my GitHub repositories for a more in-depth look at my work.
+Thank you for taking the time to explore my GitHub profile. I look forward to collaborating with creative minds.
 
-Thank you for taking the time to explore my GitHub profile. I look forward to collaborating with creative minds and contributing more to the world of development.
-
-   Sincerely,   
+Sincerely,
 <br>
 Delphine 🔭
 
