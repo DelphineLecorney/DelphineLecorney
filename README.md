@@ -6,10 +6,13 @@
 <br><br>
 🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Last Repository :
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Some repositories for various languages :
 
 [Tradding app](https://github.com/DelphineLecorney/TraddingApp)
+<p>Creation of a Laravel-based API for a trading simulation application. </p>
 
+[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
+<p>This PHP script is designed to manage a customer support form, and has enabled me to find out how best to secure it.</p>
 
 </div>
 <br>
