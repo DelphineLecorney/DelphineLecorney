@@ -2,7 +2,7 @@
   
 # 💫 About Me:
 
-🌱 Hello everyone! Welcome🌱
+🌱 Hello everyone ! Welcome🌱
 <br>
 My name is Delphine and I'm passionate about IT development and creating innovative solutions. I'm delighted to share with you an overview of my background and projects.
 
@@ -12,9 +12,9 @@ I'm currently looking for a challenging internship opportunity. I am a firm beli
 
 Thank you for taking the time to explore my GitHub profile. I look forward to collaborating with creative minds.
 
-Sincerely,
+🔭 Sincerely, Delphine 🔭
 <br>
-🔭 Delphine 🔭
+ 
 
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
