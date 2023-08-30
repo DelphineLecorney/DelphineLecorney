@@ -20,7 +20,7 @@
 
 <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/html.png" alt="html5" height="60" width="60" /> 
 
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/css.jpg" alt="css" height="60" width="60" /> 
+<img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/CSS3.jpg" alt="css" height="60" width="60" /> 
 
 <img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/JS.JPG" alt="javascript" height="60" width="60" /> 
 
