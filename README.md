@@ -22,7 +22,7 @@
 
 [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
 
-<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="60" width="60" />
 
 <p>Provide a detail page to show all content from an article.</p>
 
