@@ -6,24 +6,25 @@
 <br><br>
 🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Some repositories for various languages
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="40" width="40" /> Some repositories for various languages
 
 [Tradding app](https://github.com/DelphineLecorney/TraddingApp)
 <p>Creation of a Laravel-based API for a trading simulation application. </p>
 
 [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
+<img src="https://github.com/DelphineLecorney/hackers-poulette/blob/main/assets/pictures/Form.jpg" alt="Hackers Poulette" height="80" width="80" />
 <p>This PHP script is designed to manage a customer support form, and has enabled me to find out how best to secure it.</p>
 
 [Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)
+<img src="https://github.com/DelphineLecorney/Whack-A-Mole/blob/main/assets/pictures/CaptureWahck-A-Mole.jpg" alt="Whack A Mole" height="80" width="80" />
 <p>Creation of the traditional mole game, the aim of which is to use a hammer to prevent the "moles" from emerging from the ground.</p> 
 
 [Collection](https://github.com/DelphineLecorney/Collection)
+<img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" alt="Collection" height="80" width="80" />
 <p>The aim of this project is to create a collection of elements.</p>
 
 [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
-
-<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="60" width="60" />
-
+<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="80" width="80" />
 <p>Provide a detail page to show all content from an article.</p>
 
 
