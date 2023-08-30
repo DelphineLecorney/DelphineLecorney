@@ -13,51 +13,13 @@
 
 <br>
 
-| <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/ArticleSelected.jpeg" height="200px" width="130px;"/><br /><sub><b>[Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Form.jpg" height="200px" width="150px;"/><br /><sub><b>[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" height="200px" width="150px;"/><br /><sub><b>[Collection](https://github.com/DelphineLecorney/Collection)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Wahck-A-Mole.jpg" height="200px" width="150px;"/><br /><sub><b>[Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)</b></sub> | 
+| <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/tradding.png" height="200px" width="130px;"/><br /><sub><b>[Tradding App](https://github.com/DelphineLecorney/TraddingApp)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Form.jpg" height="200px" width="150px;"/><br /><sub><b>[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" height="200px" width="150px;"/><br /><sub><b>[Collection](https://github.com/DelphineLecorney/Collection)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Wahck-A-Mole.jpg" height="200px" width="150px;"/><br /><sub><b>[Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)</b></sub> | 
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/tradding.png" height="200px" width="130px;"/><br /><sub><b>[Tradding App](https://github.com/DelphineLecorney/TraddingApp)</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[]()</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[]()</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[]()</b></sub> | 
+| <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/ArticleSelected.jpeg" height="200px" width="130px;"/><br /><sub><b>[Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[To Do List](https://github.com/DelphineLecorney/testTodo/tree/main)</b></sub> | <img src="" height="200px" width="150px;"/><br /><sub><b>[Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)</b></sub> | 
 
 
 
 <br>
-
-
-
-
-[Tradding app](https://github.com/DelphineLecorney/TraddingApp)
-</div>
-
-```php
-class AuthController extends Controller
-{
-    public function __construct()
-    {
-        $this->middleware('auth:api', ['except' => ['login', 'signup']]);
-    }
-
-    public function login(Request $request)
-    {
-        $request->validate([
-            'email' => 'required|string|email',
-            'password' => 'required|string',
-        ]);
-
-        $credentials = $request->only('email', 'password');
-        if (!$token = JWTAuth::attempt($credentials)) {
-            return response()->json(['message' => 'Unauthorized'],401);
-        }
-
-        $user = Auth::user();
-        return response()->json([
-            'user' => $user,
-            'authorization' => [
-                'token' => $token,
-                'type' => 'bearer',
-            ]
-            ]);
-    }
-}
-```
 
 <br>
 
