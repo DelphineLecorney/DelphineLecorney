@@ -56,10 +56,9 @@ Delphine 🔭
 </p>
 
 
-## 🌐 Social 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B6.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/delphine-lecorney-539781242/) 
+## 🌐 Contact
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="delphine-lecorney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/delphine-lecorney?trk=profile-badge">Delphine Lecorney</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="delphine-lecorney" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/delphine-lecorney?trk=profile-badge" target="blank">Delphine Lecorney</a></div>
               
 ---
 [![](https://visitcount.itsvg.in/api?id=DelphineLecorney&icon=0&color=0)](https://visitcount.itsvg.in)
