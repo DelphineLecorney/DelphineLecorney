@@ -21,6 +21,9 @@
 <p>The aim of this project is to create a collection of elements.</p>
 
 [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
+
+<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="40" width="40" />
+
 <p>Provide a detail page to show all content from an article.</p>
 
 
