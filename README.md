@@ -13,7 +13,7 @@
 
 <br>
 
-| <img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/articles.JPG" width="150px;"/><br /><sub><b>[Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | <img src="https://github.com/DelphineLecorney/hackers-poulette/blob/main/assets/pictures/Form.jpg" width="150px;"/><br /><sub><b>[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | <img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/nextArticle.JPG" width="150px;"/><br /><sub><b>Previous and next article</b></sub> | <img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/moreAuthors.JPG" width="150px;"/><br /><sub><b>More authors</b></sub> |
+| <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/ArticleSelected.jpeg" width="150px;"/><br /><sub><b>[Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Form.jpg" width="150px;"/><br /><sub><b>[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" width="150px;"/><br /><sub><b>[Collection](https://github.com/DelphineLecorney/Collection)</b></sub> | <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Wahck-A-Mole.jpg" width="150px;"/><br /><sub><b>[Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)</b></sub> |
 | :---: | :---: | :---: | :---: |
 
 
