@@ -25,12 +25,12 @@
 <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/php.jpg" alt="PHP" height="60" width="60" /> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)![LARAVEL](https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Laravel.JPG)
-
+<br>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DelphineLecorney&theme=dark&hide_border=false)
 
-
+<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DelphineLecorney&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
