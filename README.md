@@ -6,27 +6,59 @@
 <br><br>
 🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="40" width="40" /> Some repositories for various languages
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
 [Tradding app](https://github.com/DelphineLecorney/TraddingApp)
+
+```php
+class AuthController extends Controller
+{
+    public function __construct()
+    {
+        $this->middleware('auth:api', ['except' => ['login', 'signup']]);
+    }
+
+    public function login(Request $request)
+    {
+        $request->validate([
+            'email' => 'required|string|email',
+            'password' => 'required|string',
+        ]);
+
+        $credentials = $request->only('email', 'password');
+        if (!$token = JWTAuth::attempt($credentials)) {
+            return response()->json(['message' => 'Unauthorized'],401);
+        }
+
+        $user = Auth::user();
+        return response()->json([
+            'user' => $user,
+            'authorization' => [
+                'token' => $token,
+                'type' => 'bearer',
+            ]
+            ]);
+    }
+}
+```
+
 <p>Creation of a Laravel-based API for a trading simulation application. </p>
 
 [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
-<img src="https://github.com/DelphineLecorney/hackers-poulette/blob/main/assets/pictures/Form.jpg" alt="Hackers Poulette" height="80" width="80" />
+<img src="https://github.com/DelphineLecorney/hackers-poulette/blob/main/assets/pictures/Form.jpg" alt="Hackers Poulette" height="100" width="100" />
 <p>This PHP script is designed to manage a customer support form, and has enabled me to find out how best to secure it.</p>
 
 [Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)
-<img src="https://github.com/DelphineLecorney/Whack-A-Mole/blob/main/assets/pictures/CaptureWahck-A-Mole.jpg" alt="Whack A Mole" height="80" width="80" />
+<img src="https://github.com/DelphineLecorney/Whack-A-Mole/blob/main/assets/pictures/CaptureWahck-A-Mole.jpg" alt="Whack A Mole" height="100" width="100" />
 <p>Creation of the traditional mole game, the aim of which is to use a hammer to prevent the "moles" from emerging from the ground.</p> 
 
 [Collection](https://github.com/DelphineLecorney/Collection)
-<img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" alt="Collection" height="80" width="80" />
+<img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" alt="Collection" height="100" width="100" />
 <p>The aim of this project is to create a collection of elements.</p>
 
 [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
-<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="" height="80" width="80" />
+<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="MVC" height="100" width="100" />
 <p>Provide a detail page to show all content from an article.</p>
-
 
 </div>
 <br>
