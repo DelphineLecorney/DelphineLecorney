@@ -23,7 +23,6 @@
 
 <p align='left'>
   
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/visual-studio.jpg" alt="VSCode" height="60" width="60" />
 
 <img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/html5.jpeg" alt="html5" height="60" width="60" /> 
 
@@ -33,7 +32,6 @@
 
 <img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/php_logo.jpg" alt="PHP" height="60" width="60" /> 
 
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/myphpadmin.png" alt="phpmyadmin" height="60" width="60" /> 
 
 </p>
 
