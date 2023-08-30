@@ -57,26 +57,7 @@ class AuthController extends Controller
     }
 }
 ```
-<div align='center'>
-<p>Creation of a Laravel-based API for a trading simulation application. </p>
 
-[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
-<img src="https://github.com/DelphineLecorney/hackers-poulette/blob/main/assets/pictures/Form.jpg" alt="Hackers Poulette" height="100" width="100" />
-<p>This PHP script is designed to manage a customer support form, and has enabled me to find out how best to secure it.</p>
-
-[Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)
-<img src="https://github.com/DelphineLecorney/Whack-A-Mole/blob/main/assets/pictures/CaptureWahck-A-Mole.jpg" alt="Whack A Mole" height="100" width="100" />
-<p>Creation of the traditional mole game, the aim of which is to use a hammer to prevent the "moles" from emerging from the ground.</p> 
-
-[Collection](https://github.com/DelphineLecorney/Collection)
-<img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Collection.JPG" alt="Collection" height="100" width="100" />
-<p>The aim of this project is to create a collection of elements.</p>
-
-[Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
-<img src="https://raw.githubusercontent.com/DelphineLecorney/mvc/main/public/pictures/ArticleSelected.JPG" alt="MVC" height="100" width="100" />
-<p>Provide a detail page to show all content from an article.</p>
-
-</div>
 <br>
 
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="40" width="40" /> Tech Stacks :
