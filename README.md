@@ -6,7 +6,7 @@
 <br><br>
 🔭 I'm currently working on PHP, SQL and LARAVEL 🔭
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Some repositories for various languages :
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="50" width="50" /> Some repositories for various languages
 
 [Tradding app](https://github.com/DelphineLecorney/TraddingApp)
 <p>Creation of a Laravel-based API for a trading simulation application. </p>
@@ -16,6 +16,9 @@
 
 [Whack A Mole](https://github.com/DelphineLecorney/Whack-A-Mole)
 <p>Creation of the traditional mole game, the aim of which is to use a hammer to prevent the "moles" from emerging from the ground.</p> 
+
+[Collection](https://github.com/DelphineLecorney/Collection)
+<p>The aim of this project is to create a collection of elements.</p>
 
 </div>
 <br>
