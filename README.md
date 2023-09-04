@@ -28,7 +28,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 
 <br>
 
-# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="40" width="40" /> Tech Stacks :
+# <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="30" width="30" /> Tech Stacks :
 
 <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/html.png" alt="html5" height="60" width="60" /> 
 
