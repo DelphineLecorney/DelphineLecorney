@@ -6,9 +6,9 @@
 <br><br>
 My name is Delphine and I'm passionate about IT development and creating innovative solutions. I'm delighted to share with you an overview of my background and projects.
 
-Over the years, I've had the opportunity to work on a number of exciting projects, which you can find in my various GitHub repositories. Each of these projects represents a unique challenge that I've taken on with enthusiasm, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
+I've had the opportunity to work on a number of exciting projects, which you can find in my GitHub repository. Each of these projects represents a unique challenge that I've taken on with gusto, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
 
-I'm currently looking for a challenging internship opportunity. I am a firm believer in lifelong learning and I am convinced that an internship would be an ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
+I'm currently looking for a challenging internship. I'm a firm believer in lifelong learning and I'm convinced that an internship would be the ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
 
 Thank you for taking the time to explore my GitHub profile. I look forward to collaborating with creative minds.
 
