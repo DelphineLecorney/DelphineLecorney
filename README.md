@@ -4,7 +4,7 @@
 
 🌱 Hello everyone ! Welcome🌱
 <br><br>
-My name is Delphine and right now I'm building a platform for human resources management with Laravel in PHP, a completely personal project, a challenge of sorts.
+My name is Delphine and right now I'm building a platform for human resources management with Laravel in PHP, a completely personal project, a challenge of sorts. [HRVantage](https://github.com/DelphineLecorney/HRVantage)
 
 I'm passionate about IT development and creating innovative solutions, and I'm delighted to share with you a glimpse of my background and projects.
 
