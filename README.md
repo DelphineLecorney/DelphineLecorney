@@ -4,9 +4,11 @@
 
 🌱 Hello everyone ! Welcome🌱
 <br><br>
-My name is Delphine and I'm passionate about IT development and creating innovative solutions. I'm delighted to share with you an overview of my background and projects.
+My name is Delphine and right now I'm building a platform for human resources management with Laravel in PHP, a completely personal project, a challenge of sorts.
 
-I've had the opportunity to work on a number of exciting projects, which you can find in my GitHub repository. Each of these projects represents a unique challenge that I've taken on with gusto, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
+I'm passionate about IT development and creating innovative solutions, and I'm delighted to share with you a glimpse of my background and projects.
+
+I've had the opportunity to work on a number of exciting projects, which you can find in my GitHub repository. Each of these projects represents a unique challenge that I've enthusiastically taken on, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
 
 I'm currently looking for a challenging internship. I'm a firm believer in lifelong learning and I'm convinced that an internship would be the ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
 
