@@ -4,7 +4,15 @@
 
 🌱 Hello everyone ! Welcome🌱
 <br><br>
-My name is Delphine and right now I'm building a platform for human resources management with Laravel in PHP, a completely personal project, a challenge of sorts. <img src="https://github.com/DelphineLecorney/HRVantage/blob/master/public/images/screenWelcome.JPG" height="200px" width="130px;"/><br /><sub><b>[HRVantage](https://github.com/DelphineLecorney/HRVantage)</b></sub>
+My name is Delphine, and I'm currently working on an exciting personal project: [HRVantage](https://github.com/DelphineLecorney/HRVantage), a human resources management platform built with Laravel in PHP.
+
+HRVantage](https://github.com/DelphineLecorney/HRVantage/blob/master/public/images/screenWelcome.JPG)
+
+This project represents an exciting challenge for me. HRVantage aims to simplify human resources management for businesses, covering employee management, jobs, benefits and much more. 
+
+I'm building this platform from the ground up, constantly updating and improving its functionality. If you'd like to find out more or even collaborate on HR-related issues, I'm open to new opportunities and rewarding discussions.
+
+Don't hesitate to contact me if you'd like to find out more about the project or if you have any ideas to share.
 
 
 I'm passionate about IT development and creating innovative solutions, and I'm delighted to share with you a glimpse of my background and projects.
