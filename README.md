@@ -9,10 +9,10 @@ My name is Delphine, and I'm currently working on an exciting personal project: 
 
 <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/screenWelcome.JPG" height="300px" width="250px">
 
-This project represents an exciting challenge for me. HRVantage aims to simplify human resources management for businesses, covering employee management, jobs, benefits and much more. 
+HRVantage aims to simplify human resources management for businesses, covering employee management, jobs, benefits and much more. 
 
-I'm building this platform from the ground up, constantly updating and improving its functionality. If you'd like to find out more or even collaborate on HR-related issues, I'm open to new opportunities and rewarding discussions.
-
+I'm building this platform from the ground up, constantly updating and improving its functionality. 
+If you'd like to find out more or even collaborate on HR-related issues, I'm open to new opportunities and rewarding discussions.
 Don't hesitate to contact me if you'd like to find out more about the project or if you have any ideas to share.
 
 
