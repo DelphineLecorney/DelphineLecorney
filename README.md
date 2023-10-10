@@ -29,12 +29,12 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
 
-- [Robot](https://github.com/DelphineLecorney/robot_platform)
-- [Trading App](https://github.com/DelphineLecorney/TraddingApp)
-- [Modèle-Vue-Contrôleur](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
-- [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
-- [Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)
-- [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)
+[Robot](https://github.com/DelphineLecorney/robot_platform)
+[Trading App](https://github.com/DelphineLecorney/TraddingApp)
+[Modèle-Vue-Contrôleur](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
+[Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
+[Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)
+[Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)
 
 
 <br>
