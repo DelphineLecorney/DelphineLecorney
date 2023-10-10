@@ -28,7 +28,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
-<br>
+
 - [Robot](https://github.com/DelphineLecorney/robot_platform)
 - [Trading App](https://github.com/DelphineLecorney/TraddingApp)
 - [Modèle-Vue-Contrôleur](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
