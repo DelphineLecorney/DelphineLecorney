@@ -30,7 +30,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 
 <br>
 | [Robot](https://github.com/DelphineLecorney/robot_platform)</b></sub> 
-| [Tradding App](https://github.com/DelphineLecorney/TraddingApp)</b></sub> |
+ [Tradding App](https://github.com/DelphineLecorney/TraddingApp)</b></sub> |
  [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | 
  [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | 
  [Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)</b></sub> |
