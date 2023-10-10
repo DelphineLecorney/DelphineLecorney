@@ -29,12 +29,12 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/git%20repository.png" alt="Repository" height="30" width="30" /> Some repositories for various languages
 
 <br>
-[Robot](https://github.com/DelphineLecorney/robot_platform)</b></sub> |
- [Tradding App](https://github.com/DelphineLecorney/TraddingApp)</b></sub> |
- [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md)</b></sub> | 
- [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)</b></sub> | 
- [Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)</b></sub> |
- [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)</b></sub> | 
+[Robot](https://github.com/DelphineLecorney/robot_platform)|
+ [Tradding App](https://github.com/DelphineLecorney/TraddingApp) |
+ [Modèle-Vue-Contrôleur ](https://github.com/DelphineLecorney/mvc/blob/main/README.md) | 
+ [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette) | 
+ [Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP) |
+ [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await) | 
 
 
 
