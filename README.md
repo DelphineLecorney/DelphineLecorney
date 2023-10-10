@@ -34,7 +34,7 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 | [Modèle-Vue-Contrôleur](https://github.com/DelphineLecorney/mvc/blob/main/README.md)
 | [Hackers Poulette](https://github.com/DelphineLecorney/hackers-poulette)
 | [Excuses PHP](https://github.com/DelphineLecorney/Excuses-PHP)
-| [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)
+| [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await) |
 
 
 <br>
