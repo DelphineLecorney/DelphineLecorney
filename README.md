@@ -37,10 +37,6 @@ Thank you for taking the time to explore my GitHub profile. I look forward to co
 - [Random Quotes](https://github.com/DelphineLecorney/random-quote-using-async-await)
 
 
-
-
-<br>
-
 <br>
 
 # <img src="https://github.com/DelphineLecorney/DelphineLecorney/blob/main/images/Stacks_Logo.png" alt="Stacks" height="30" width="30" /> Tech Stacks :
