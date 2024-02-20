@@ -18,7 +18,7 @@ I'm passionate about IT development and creating innovative solutions, and I'm d
 
 I've had the opportunity to work on a number of exciting projects, which you can find in my GitHub repository. Each of these projects represents a unique challenge that I've enthusiastically taken on, using a variety of programming languages and tools. Whether it's web applications, practical scripts or even project contributions, I've sought to constantly improve my skills.
 
-I'm currently looking for a challenging internship. I'm a firm believer in lifelong learning and I'm convinced that an internship would be the ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
+I'm currently looking for a challenging job. I'm a firm believer in lifelong learning and I'm convinced that a job would be the ideal opportunity for me to acquire new knowledge and apply my skills in a professional environment.
 
 Thank you for taking the time to explore my GitHub profile. I look forward to collaborating with creative minds.
 
