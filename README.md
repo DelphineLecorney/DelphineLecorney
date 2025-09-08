@@ -18,8 +18,9 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ## 🚀 Projet en cours
 
-### 🔧 [quiz-platform](https://github.com/DelphineLecorney/quiz-platform)
-Plateforme de quiz Laravel : auth, rôles, création et prise de quiz, résultats. Stack : PHP 8, Laravel 12, SQLite, Bootstrap 5.
+### 🔧 [solidarite-locale]https://github.com/DelphineLecorney/solidarite-locale)
+Plateforme d'entraide locale pour communes et associations en Belgique : connecter des citoyen(ne)s en besoin ponctuel d’aide avec des volontaires et associations du quartier.
+
 
 ### 🔧 [AnalyseEnergie](https://github.com/DelphineLecorney/AnalyseEnergie)
 Application Python permettant d'analyser la consommation énergétique quotidienne d’un foyer à partir de relevés, en visualisant les coûts et l’impact des conditions météorologiques.
