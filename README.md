@@ -18,7 +18,7 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ## 🚀 Projet en cours
 
-### 🔧 [solidarite-locale]https://github.com/DelphineLecorney/solidarite-locale)
+### 🔧 [solidarite-locale](https://github.com/DelphineLecorney/solidarite-locale)
 Plateforme d'entraide locale pour communes et associations en Belgique : connecter des citoyen(ne)s en besoin ponctuel d’aide avec des volontaires et associations du quartier.
 
 
