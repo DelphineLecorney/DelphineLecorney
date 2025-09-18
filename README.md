@@ -23,7 +23,7 @@ Plateforme d'entraide locale pour communes et associations en Belgique : connect
 
 
 ### 🔧 [simulateur_ethique](https://github.com/DelphineLecorney/simulateur_ethique)
-n simulateur web interactif où l’utilisateur est confronté à des dilemmes technologiques
+Un simulateur web interactif où l’utilisateur est confronté à des dilemmes technologiques
 
 ---
 
