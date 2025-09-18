@@ -22,8 +22,8 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 Plateforme d'entraide locale pour communes et associations en Belgique : connecter des citoyen(ne)s en besoin ponctuel d’aide avec des volontaires et associations du quartier. 
 
 
-<!-- ### 🔧 [AnalyseEnergie](https://github.com/DelphineLecorney/AnalyseEnergie)
-Application Python permettant d'analyser la consommation énergétique quotidienne d’un foyer à partir de relevés, en visualisant les coûts et l’impact des conditions météorologiques.-->
+### 🔧 [simulateur_ethique](https://github.com/DelphineLecorney/simulateur_ethique)
+n simulateur web interactif où l’utilisateur est confronté à des dilemmes technologiques
 
 ---
 
