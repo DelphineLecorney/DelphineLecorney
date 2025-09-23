@@ -18,8 +18,12 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ## 🚀 Projet en cours
 
-### 🔧 [solidarite-locale](https://github.com/DelphineLecorney/solidarite-locale)
-Plateforme d'entraide locale pour communes et associations en Belgique : connecter des citoyen(ne)s en besoin ponctuel d’aide avec des volontaires et associations du quartier. 
+### 🔧 [reservation-events](https://github.com/DelphineLecorney/reservation-events)
+Créer une application web où les utilisateurs peuvent :
+
+- Voir une liste d’événements (concerts, expos, spectacles…)
+- Réserver une place
+- Gérer leur profil 
 
 
 ### 🔧 [simulateur_ethique](https://github.com/DelphineLecorney/simulateur_ethique)
