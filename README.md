@@ -18,13 +18,6 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ## 🚀 Projet en cours
 
-### 🔧 [reservation-events](https://github.com/DelphineLecorney/reservation-events)
-Créer une application web où les utilisateurs peuvent :
-
-- Voir une liste d’événements (concerts, expos, spectacles…)
-- Réserver une place
-- Gérer leur profil 
-
 
 ### 🔧 [simulateur_ethique](https://github.com/DelphineLecorney/simulateur_ethique)
 Un simulateur web interactif où l’utilisateur est confronté à des dilemmes technologiques
