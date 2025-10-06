@@ -22,9 +22,6 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 ### 🔧 [gestion-evenements](https://github.com/DelphineLecorney/gestion-evenements)
 Une application web développée avec Laravel 12 et Breeze, permettant aux utilisateurs de créer, gérer et participer à des événements locaux. Ce projet met en avant l'authentification, les rôles, les relations entre modèles, et une interface claire avec fil d’Ariane.
 
-### 🔧 [simulateur_ethique](https://github.com/DelphineLecorney/simulateur_ethique)
-Un simulateur web interactif où l’utilisateur est confronté à des dilemmes technologiques
-
 ---
 
 ## 🛠 Technologies & Stack
