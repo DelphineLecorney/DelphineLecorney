@@ -16,12 +16,17 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ---
 
-## 🚀 Projet en cours
+### 🚀 Projet en cours : *Formation Architecte Logiciel*
+
+> ### 📘 **Contenu de la formation**
+> Cette formation couvre en profondeur les différentes architectures logicielles :  
+> - **Avantages et inconvénients** 
+> - **Choix adapté à chaque projet**
+> - **Mise en œuvre professionnelle**
 
 
-### En formation Architct Logiciel
-Cette formation couvre en profondeur les différentes architectures logicielles, leurs avantages et inconvénients, pour mermettre de choisir et de mettre en place les meilleures solutions pour chaque projet.
----
+
+ ---
 
 ## 🛠 Technologies & Stack
 
