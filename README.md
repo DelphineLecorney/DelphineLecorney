@@ -19,9 +19,8 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 ## 🚀 Projet en cours
 
 
-### 🔧 [gestion-evenements](https://github.com/DelphineLecorney/gestion-evenements)
-Une application web développée avec Laravel 12 et Breeze, permettant aux utilisateurs de créer, gérer et participer à des événements locaux. Ce projet met en avant l'authentification, les rôles, les relations entre modèles, et une interface claire avec fil d’Ariane.
-
+### En formation Architct Logiciel
+Cette formation couvre en profondeur les différentes architectures logicielles, leurs avantages et inconvénients, pour mermettre de choisir et de mettre en place les meilleures solutions pour chaque projet.
 ---
 
 ## 🛠 Technologies & Stack
