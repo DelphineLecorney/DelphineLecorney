@@ -16,6 +16,7 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ---
 
+
 ### 🚀 Projet en cours : *Formation Architecte Logiciel*
 
 > ### 📘 **Contenu de la formation**
@@ -24,8 +25,10 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 > - **Choix adapté à chaque projet**
 > - **Mise en œuvre professionnelle**
 
+
 🔒 Sélection publique
 Je ne publie pas encore l’ensemble de mes projets. Certains restent privés pour le moment.
+
 
 
  ---
