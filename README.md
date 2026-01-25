@@ -15,7 +15,6 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 🔭 Cordialement, Delphine 🔭 </div>
 
 ---
-
 ---
 
 ---
@@ -62,7 +61,7 @@ Développement d’une application **ASP.NET Core MVC & Web API** conforme aux s
 ### 🔒 Confidentialité
 
 > [!IMPORTANT]
-> Etant en laboratoire, seule une partie de mes travaux est accessible publiquement. Certains de mes projets restent privés pour le moment.
+> **Activité de recherche** : En raison de mes travaux en laboratoire, une partie de mes contributions n'est pas encore visible sur le graphique public. Je travaille actuellement sur des branches de développement privées ou secondaires qui n'apparaîtront qu'après validation et fusion (merge) finale.
 
 
 
