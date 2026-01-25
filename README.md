@@ -16,21 +16,53 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 ---
 
+---
 
-### 🚀 Projet en cours : *Formation Architecte Logiciel*
+---
 
-> ### 📘 **Contenu de la formation**
-> Cette formation couvre en profondeur les différentes architectures logicielles :  
-> - **Avantages et inconvénients** 
-> - **Choix adapté à chaque projet**
-> - **Mise en œuvre professionnelle**
+# 📘 Formation : Architecte Logiciel
 
-Je suis en laboratoire, je dois mettre en place une application ASP MVC Core + Web API  en respectant
-certaines contraintes : 
-Architecture N-Tiers, CQS, GIT, tests unitaires..
+Cette formation approfondit la conception d'architectures logicielles robustes et évolutives :
 
-🔒 Sélection publique
-Je ne publie pas encore l’ensemble de mes projets. Certains restent privés pour le moment.
+- **Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
+- **Mise en œuvre professionnelle** : application des design patterns et des meilleures pratiques de déploiement
+
+---
+
+### 🏗️ Projet en cours (Laboratoire)
+
+Développement d’une application **ASP.NET Core MVC & Web API** conforme aux standards industriels.
+
+---
+
+### 🔹 Architecture & Conception
+
+    Structure **N‑Tiers**
+    Pattern **CQS** (Command Query Separation)
+
+
+### 🔹 Accès aux données
+
+     Persistance via **ADO.NET** ou **Entity Framework**
+
+### 🔹 Gestion du code & Workflow
+
+    Versionnage structuré avec **Git**
+
+### 🔹 Qualité logicielle
+
+    **Tests unitaires** garantissant fiabilité et maintenabilité
+
+### 🔹 Automatisation
+
+    Hooks de pre‑commit : **Prettier**, `dotnet format`, exécution automatique des tests
+
+---
+
+### 🔒 Confidentialité
+
+> [!IMPORTANT]
+> Etant en laboratoire, seule une partie de mes travaux est accessible publiquement. Certains de mes projets restent privés pour le moment.
 
 
 
