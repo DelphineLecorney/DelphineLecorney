@@ -114,8 +114,6 @@ Développement d’une application **ASP.NET Core MVC & Web API** conforme aux s
 ---
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DelphineLecorney&theme=dark&hide_border=false)
-
 ---
 
   
