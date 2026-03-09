@@ -28,41 +28,46 @@ Cette formation approfondit la conception d'architectures logicielles robustes e
 
 ---
 
-### 🏗️ Projet en cours (Laboratoire)
 
-Développement d’une application **ASP.NET Core MVC & Web API** conforme aux standards industriels.
+## 🧑‍💻 Projet en cours — CoRide (Architecture Logicielle)
+
+Dans le cadre de ma formation d’**Architecte Logiciel**, je développe actuellement une application complète basée sur une architecture professionnelle et moderne.
+
+### 🏗️ Architecture & Conception
+- **Clean Architecture** (Domain / Application / Infrastructure / API / Web)
+- **CQRS** (Command Query Responsibility Segregation)
+- **DDD** (Domain-Driven Design)
+- Orchestration via **MediatR**
+
+### 🔐 Authentification & Sécurité
+- API sécurisée avec **JWT**
+- Gestion du **Refresh Token**
+- Claims utilisateur : email, prénom, rôle, etc.
+- Front-end Blazor avec gestion d’état et redirection automatique
+
+### 💾 Accès aux données
+- **Entity Framework Core**
+- SQL Server
+- Repositories
+
+### 🎨 Front-end (Blazor WebAssembly)
+- Pages sécurisées
+- Layout dynamique selon l’état d’authentification
+- Stockage local du token
+- Appels API typés et découplés
+
+### 🧪 Qualité logicielle
+- Validation métier via **FluentValidation**
+- Séparation stricte des responsabilités
+- Code structuré, défendable et maintenable
+
+### 🔧 Gestion du code & Workflow
+- Versionnage Git structuré
+- Organisation modulaire du projet
 
 ---
 
-### 🔹 Architecture & Conception
-
-    Structure **N‑Tiers**
-    Pattern **CQS** (Command Query Separation)
-
-
-### 🔹 Accès aux données
-
-     Persistance via **ADO.NET** ou **Entity Framework**
-
-### 🔹 Gestion du code & Workflow
-
-    Versionnage structuré avec **Git**
-
-### 🔹 Qualité logicielle
-
-    **Tests unitaires** garantissant fiabilité et maintenabilité
-
-### 🔹 Automatisation
-
-    Hooks de pre‑commit : **Prettier**, `dotnet format`, exécution automatique des tests
-
----
-
-### 🔒 Confidentialité
-
-> [!IMPORTANT]
-> **Activité de recherche** : En raison de mes travaux en laboratoire, une partie de mes contributions n'est pas encore visible sur le graphique public. Je travaille actuellement sur des branches de développement privées ou secondaires qui n'apparaîtront qu'après validation et fusion (merge) finale.
-
+📌 *Ce projet est en cours de développement*
 
 
  ---
