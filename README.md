@@ -15,74 +15,20 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 🔭 Cordialement, Delphine 🔭 </div>
 
 ---
----
-
----
 
 # 📘 Formation : Architecte Logiciel
 
-Cette formation approfondit la conception d'architectures logicielles robustes et évolutives :
+Cette formation a approfondit la conception d'architectures logicielles robustes et évolutives :
 
 - **Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
-- **Mise en œuvre professionnelle** : application des design patterns et des meilleures pratiques de déploiement
+- **Mise en œuvre professionnelle** : application des design patterns 
 
----
-
-
-## 🧑‍💻 Projet en cours — CoRide (Architecture Logicielle)
-
-Dans le cadre de ma formation d’**Architecte Logiciel**, je développe actuellement une application complète basée sur une architecture professionnelle et moderne.
-
-### 🏗️ Architecture & Conception
-- **Clean Architecture** (Domain / Application / Infrastructure / API / Web)
-- **CQRS** (Command Query Responsibility Segregation)
-- **DDD** (Domain-Driven Design)
-- Orchestration via **MediatR**
-
-### 🔐 Authentification & Sécurité
-- API sécurisée avec **JWT**
-- Gestion du **Refresh Token**
-- Claims utilisateur : email, prénom, rôle, etc.
-- Front-end Blazor avec gestion d’état et redirection automatique
-
-### 💾 Accès aux données
-- **Entity Framework Core**
-- SQL Server
-- Repositories
-
-### 🎨 Front-end (Blazor WebAssembly)
-- Pages sécurisées
-- Layout dynamique selon l’état d’authentification
-- Stockage local du token
-- Appels API typés et découplés
-
-### 🧪 Qualité logicielle
-- Validation métier via **FluentValidation**
-- Séparation stricte des responsabilités
-- Code structuré, défendable et maintenable
-
-### 🔧 Gestion du code & Workflow
-- Versionnage Git structuré
-- Organisation modulaire du projet
-
----
-
-📌 *Ce projet est en cours de développement*
-
+Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine.
 
  ---
 
 ## 🛠 Technologies & Stack
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-</p> -->
 
 <h3 align="center">Frontend</h3>
 <p align="center">
