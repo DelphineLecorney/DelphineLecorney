@@ -22,7 +22,7 @@ Cette formation a approfondit la conception d'architectures logicielles robustes
 - **Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
 - **Mise en œuvre professionnelle** : application des design patterns 
 
-Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine.
+Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
 
  ---
 
