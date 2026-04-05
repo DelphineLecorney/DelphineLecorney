@@ -1,7 +1,7 @@
 
-<h1 align="center"> 💫 Bonjour, je suis Delphine </h1>
-
 <div align='center'>
+
+<h1>💫 Bonjour, je suis Delphine</h1>
 
 Passionnée par le développement informatique et la création de solutions innovantes, je suis ravie de vous présenter mon parcours et mes projets.
 
@@ -11,7 +11,7 @@ Je suis actuellement à la recherche d'un emploi stimulant. Je crois fermement �
 
 Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de collaborer avec des esprits créatifs.
 
-🔭 Cordialement, Delphine 🔭 </div>
+🔭 Cordialement, Delphine 🔭 
 
 ---
 
@@ -19,52 +19,82 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 
 Cette formation a approfondit la conception d'architectures logicielles robustes et évolutives :
 
-- **Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
-- **Mise en œuvre professionnelle** : application des design patterns 
+**Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
 
-Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
+**Mise en œuvre professionnelle** : application des design patterns
 
- ---
+  ---
 
-## 🛠 Technologies & Stack
+ 
+Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. 
+
+Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
+
+Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
 
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+ # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
 
-<h3 align="center">Backend</h3>
-<p align="center">
+
+ 
+# 🛠 Technologies & Stack
+
+
+
+<h3>Frontend</h3>
+
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<h3>Backend</h3>
+
+ <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
+
+ <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Marten-1B5E20?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+
+<!-- 
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MassTransit-0A6EBD?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+
+
+ <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MassTransit-0A6EBD?style=for-the-badge&logoColor=white"/>
+ <img src="https://img.shields.io/badge/YARP-0078D4?style=for-the-badge&logo=reverseproxy&logoColor=white"/>
+
+
+
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+ -->
 
 
 ---
 
+<a href="LICENSE">
+ <img src="https://img.shields.io/badge/License-MIT-green.svg"/>
+</a>
 
-## 📫 Contact
+<h3><i>Merci de votre visite ! 👋</i></h3>
 
-- 🔗 [LinkedIn](https://be.linkedin.com/in/delphine-lecorney)
 
----
-
-<p align="center"><i>Merci de votre visite ! 👋</i></p>
-
-<p align="center"><i>N'hésitez pas à découvrir mes projets ou me contacter.</i></p>
-
-<div align="center">
+<i>N'hésitez pas à découvrir mes projets ou me contacter.</i>
+## 📫 🔗 [LinkedIn](https://be.linkedin.com/in/delphine-lecorney)
 
 ---
 
 
----
-
-  
+</div>
 
