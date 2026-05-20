@@ -36,6 +36,24 @@ Je vais donc créer d'une autre manière cette plateforme en suivant les conseil
  # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
 
 
+Pour aller au-delà des frameworks traditionnels et consolider mes bases en programmation système, 
+
+je vais essayer de développer en parallèle un projet d'infrastructure pour l'IA.
+
+J'ai choisi de mettre de côté les ORM et les outils cloud pour concevoir moi-même le cœur d'une base de données vectorielle sur mon PC local. 
+
+**Objectif Obj-Orienté & Fichiers :** Création d'un format de stockage binaire personnalisé sur le disque via `FileStream`.
+
+**Algorithmes bruts :** Implémentation maison de la similarité cosinus (algèbre linéaire de base) pour la recherche de documents.
+
+**Architecture propre :** Structuration en C# pur sans dépendances tierces pour comprendre ce qu'il se passe sous le capot.
+
+### 🚀 [SharpVector]()
+
+Moteur Vectoriel "From Scratch" en C#
+
+---
+
  
 # 🛠 Technologies & Stack
 
