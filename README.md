@@ -14,31 +14,9 @@ Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de co
 🔭 Cordialement, Delphine 🔭 
 
 ---
+ Pour aller au-delà des frameworks traditionnels et consolider mes bases en programmation système, 
 
-# 📘 Formation : Architecte Logiciel
-
-Cette formation a approfondit la conception d'architectures logicielles robustes et évolutives :
-
-**Analyse comparative** : étude des avantages, inconvénients et critères de choix selon le contexte métier
-
-**Mise en œuvre professionnelle** : application des design patterns
-
-  ---
-
- 
-Pour clôturer ma formation, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. 
-
-Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
-
-Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
-
-
- # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
-
-
-Pour aller au-delà des frameworks traditionnels et consolider mes bases en programmation système, 
-
-je vais essayer de développer en parallèle un projet d'infrastructure pour l'IA.
+je vais essayer de développer un projet d'infrastructure pour l'IA.
 
 J'ai choisi de mettre de côté les ORM et les outils cloud pour concevoir moi-même le cœur d'une base de données vectorielle sur mon PC local. 
 
@@ -51,6 +29,18 @@ J'ai choisi de mettre de côté les ORM et les outils cloud pour concevoir moi-m
 ### 🚀 [SharpVector]()
 
 Moteur Vectoriel "From Scratch" en C#
+
+---
+
+Pour clôturer ma formation Architecte Logiciel, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. 
+
+Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
+
+Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
+
+
+ # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
+
 
 ---
 
