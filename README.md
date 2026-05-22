@@ -36,7 +36,7 @@ Pour clôturer ma formation Architecte Logiciel, j'ai eu l'opportunité de conce
 
 Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
 
-Je vais donc créer d'une autre manière cette plateforme en suivant les conseils. 
+Je refais donc cette plateforme en suivant les conseils.
 
 
  # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
