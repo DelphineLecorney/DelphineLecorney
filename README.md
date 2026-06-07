@@ -20,17 +20,18 @@ Pour clôturer ma formation Architecte Logiciel, j'ai eu l'opportunité de conce
 
 Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
 
-J'ai donc décidé de la recommencer de zéro, de la créer suivant leurs conseils tout en continuant de me former à côté ainsi que de passer énormément de temps à chercher du travail, il faut ce qu'il faut :)
+J'ai donc décidé de la recommencer de zéro, de la créer suivant leurs conseils tout en continuant de me former à côté, 
+
+je m'initie à Microsoft Azure et m'informe sur les LLM.
 
 
- # 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
+# 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
+ 
 
-
----
+# 🎮 [GameVerse](https://github.com/DelphineLecorney/GameVerse)
 
  
 # 🛠 Technologies & Stack
-
 
 
 <h3>Frontend</h3>
