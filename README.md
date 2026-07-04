@@ -22,11 +22,7 @@ Cet échange de 40 minutes réparti entre présentation et "questions-réponses"
 
 J'ai donc décidé de la recommencer de zéro, de la créer suivant leurs conseils tout en continuant de me former à côté, 
 
-je m'initie à Microsoft Azure et m'informe sur les LLM.
-
-
-# 🚗 [Co_Ride](https://github.com/DelphineLecorney/Co_Ride)
- 
+je m'initie à Microsoft Azure et m'informe sur les LLMS.
 
 # 🎮 [GameVerse](https://github.com/DelphineLecorney/GameVerse)
 
