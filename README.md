@@ -3,26 +3,15 @@
 
 <h1>💫 Bonjour, je suis Delphine</h1>
 
-Passionnée par le développement informatique et la création de solutions innovantes, je suis ravie de vous présenter mon parcours et mes projets.
+Développeuse passionnée et curieuse, j’aime concevoir des solutions élégantes, comprendre en profondeur les architectures logicielles et apprendre de nouvelles technologies pour aller toujours plus loin.
 
-J'ai eu l'occasion de travailler sur plusieurs projets passionnants, que vous pouvez retrouver dans mon dépôt GitHub. Chacun de ces projets représente un défi unique que j'ai relevé avec enthousiasme, en utilisant divers langages de programmation et outils. Qu'il s'agisse d'applications web, de scripts pratiques ou même de contributions à des projets, j'ai cherché à améliorer constamment mes compétences.
+Au fil de ma formation d’Architecte Logiciel, j’ai réalisé plusieurs projets que vous pouvez découvrir sur mon GitHub.Ces projets m’ont permis de travailler avec des technologies modernes, d’améliorer mes bonnes pratiques et de renforcer ma rigueur technique.
 
-Je suis actuellement à la recherche d'un emploi stimulant. Je crois fermement à l'apprentissage tout au long de la vie et je suis convaincue qu'un emploi serait l'occasion idéale pour moi d'acquérir de nouvelles connaissances et de mettre en pratique mes compétences dans un environnement professionnel.
+Je suis aujourd’hui à la recherche d’une opportunité professionnelle stimulante, où je pourrais continuer à apprendre, contribuer à des projets ambitieux et évoluer dans un environnement collaboratif.
+Je m’intéresse particulièrement à Microsoft Azure, au cloud, et aux LLMs, domaines dans lesquels je me forme activement.
 
-Merci d'avoir pris le temps de consulter mon profil GitHub. Je me réjouis de collaborer avec des esprits créatifs.
-
-🔭 Cordialement, Delphine 🔭 
-
-
----
-
-Pour clôturer ma formation Architecte Logiciel, j'ai eu l'opportunité de concevoir et de présenter une plateforme de covoiturage. 
-
-Cet échange de 40 minutes réparti entre présentation et "questions-réponses" avec les autres apprenants, formateurs et un expert du secteur a été extrêmement enrichissant. Les retours constructifs reçus renforcent ma détermination à approfondir mes compétences dans ce domaine. 
-
-J'ai donc décidé de la recommencer de zéro, de la créer suivant leurs conseils tout en continuant de me former à côté, 
-
-je m'initie à Microsoft Azure et m'informe sur les LLMS.
+Merci d’avoir pris le temps de visiter mon profil GitHub.
+Au plaisir de collaborer avec des esprits créatifs et passionnés.
 
 # 🎮 [GameVerse](https://github.com/DelphineLecorney/GameVerse)
 
