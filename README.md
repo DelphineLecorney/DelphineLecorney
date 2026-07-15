@@ -13,7 +13,7 @@ Je m’intéresse particulièrement à Microsoft Azure, au cloud, et aux LLMs, d
 Merci d’avoir pris le temps de visiter mon profil GitHub.
 Au plaisir de collaborer avec des esprits créatifs et passionnés.
 
-# 🎮 [GameVerse](https://github.com/DelphineLecorney/GameVerse)
+# [SmartDesk AI](https://github.com/DelphineLecorney/smartdesk-ai)
 
  
 # 🛠 Technologies & Stack
