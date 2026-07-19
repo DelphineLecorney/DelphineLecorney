@@ -4,7 +4,7 @@
 
 Développeuse passionnée et curieuse, j’aime concevoir des solutions élégantes, comprendre en profondeur les architectures logicielles et apprendre de nouvelles technologies pour aller toujours plus loin.
 
-Au fil de ma formation d’Architecte Logiciel, j’ai réalisé plusieurs projets que vous pouvez découvrir sur mon GitHub. Ces projets m’ont permis de travailler avec des technologies modernes, d’améliorer mes bonnes pratiques et de renforcer ma rigueur technique.
+Au fil de ma formation d’Architecte Logiciel, j’ai réalisé plusieurs projets. Ces projets m’ont permis de travailler avec des technologies modernes, d’améliorer mes bonnes pratiques et de renforcer ma rigueur technique.
 
 Je suis aujourd’hui à la recherche d’une opportunité professionnelle stimulante, où je pourrais continuer à apprendre, contribuer à des projets ambitieux et évoluer dans un environnement collaboratif.
 Je m’intéresse particulièrement à Microsoft Azure, au cloud, et aux LLMs, domaines dans lesquels je me forme activement.
